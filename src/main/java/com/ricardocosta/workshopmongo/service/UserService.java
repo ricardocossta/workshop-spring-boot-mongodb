@@ -44,9 +44,4 @@ public class UserService {
 		newObj.setName(obj.getName());
 		newObj.setEmail(obj.getEmail());
 	}
-	
-	
-	
-	
-	
 }
